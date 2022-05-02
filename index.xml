@@ -1,13 +1,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PhongThuyPhatLoc2</title>
-    <link>http://example.org/</link>
+    <link>http://phongthuyphatloc.github.io/</link>
     <description>Recent content on PhongThuyPhatLoc2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://phongthuyphatloc.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Posts</title>
+      <link>http://phongthuyphatloc.github.io/post/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://phongthuyphatloc.github.io/post/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
